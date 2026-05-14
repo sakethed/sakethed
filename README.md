@@ -1,2 +1,1 @@
-# sketched
-Hi! I'm Saketh 
+# Hi! I'm Saketh 
